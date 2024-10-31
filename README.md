@@ -11,6 +11,7 @@ This repository contains the final project for the Design Patterns course at IFS
 - **Professor**:  Dr. Renato Simões Moreira [@simoesrenato](https://github.com/simoesrenato)
 
 ### Current Implementation Status
+https://youtu.be/5lbc1t0sU-s
 
 #### Features Implemented
 - ✅ Readme.md
@@ -23,7 +24,7 @@ This repository contains the final project for the Design Patterns course at IFS
 - - ✅ Apply one behavioral pattern: State
 - - ✅ Diagrams
 - - ✅ Documentation
-- - ✅ 
+- - ✅ Video
 - - ✅ 
 - - ✅
 
@@ -40,7 +41,7 @@ This repository contains the final project for the Design Patterns course at IFS
 ~~- - 🚧 Apply one behavioral pattern: State~~
 ~~-  - 🚧 Diagrams~~
 ~~-  - 🚧 Documentation~~
--  - 🚧 Video
+~~-  - 🚧 Video~~
 -  - 🚧 Presentation
 -  - 🚧 Bug fixes
 
