@@ -23,7 +23,7 @@ This repository contains the final project for the Design Patterns course at IFS
 - - ✅ Apply one behavioral pattern: State
 - - ✅ Diagrams
 - - ✅ Documentation
-- - ✅ 
+- - ✅ Video
 - - ✅ 
 - - ✅
 
@@ -40,7 +40,7 @@ This repository contains the final project for the Design Patterns course at IFS
 ~~- - 🚧 Apply one behavioral pattern: State~~
 ~~-  - 🚧 Diagrams~~
 ~~-  - 🚧 Documentation~~
--  - 🚧 Video
+~~-  - 🚧 Video~~
 -  - 🚧 Presentation
 -  - 🚧 Bug fixes
 
