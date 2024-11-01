@@ -15,7 +15,7 @@ https://youtu.be/5lbc1t0sU-s
 
 #### Features Implemented
 - ✅ Readme.md
-- ✅ GitHub and GPG Signing
+- ✅ GitHub and ~~GPG Signing~~
 - - ✅ Basic project setup
 - - ✅ Basic project structure
 - - ✅ Basic project documentation
