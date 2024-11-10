@@ -11,10 +11,11 @@ This repository contains the final project for the Design Patterns course at IFS
 - **Professor**:  Dr. Renato Simões Moreira [@simoesrenato](https://github.com/simoesrenato)
 
 ### Current Implementation Status
+https://youtu.be/5lbc1t0sU-s
 
 #### Features Implemented
 - ✅ Readme.md
-- ✅ GitHub and GPG Signing
+- ✅ GitHub and 
 - - ✅ Basic project setup
 - - ✅ Basic project structure
 - - ✅ Basic project documentation
@@ -23,15 +24,12 @@ This repository contains the final project for the Design Patterns course at IFS
 - - ✅ Apply one behavioral pattern: State
 - - ✅ Diagrams
 - - ✅ Documentation
-- - ✅ 
-- - ✅ 
-- - ✅
-
-
+- - ✅ Video
+- - ✅ GPG Signing
 
 #### Work in Progress
 ~~- 🚧 Basic Readme.md~~
-~~- 🚧 GitHub and GPG Signing~~
+~~- 🚧 GitHub and~~ ~~GPG Signing~~
 ~~- - 🚧 Basic project setup~~
 ~~- - 🚧 Basic project structure~~
 ~~- - 🚧 Basic project documentation~~
@@ -40,10 +38,9 @@ This repository contains the final project for the Design Patterns course at IFS
 ~~- - 🚧 Apply one behavioral pattern: State~~
 ~~-  - 🚧 Diagrams~~
 ~~-  - 🚧 Documentation~~
--  - 🚧 Video
+~~-  - 🚧 Video~~
 -  - 🚧 Presentation
 -  - 🚧 Bug fixes
-
 
 ### Setup Instructions
 1. Clone the repository
@@ -54,7 +51,6 @@ This repository contains the final project for the Design Patterns course at IFS
    
 ### Development Notes
 - Its very buggy try it  on year 2024 to be safe.
-
 
 ### Technical Requirements
 - Minimum JDK Version: 21
