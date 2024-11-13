@@ -40,7 +40,10 @@ https://youtu.be/5lbc1t0sU-s
 ~~-  - 🚧 Documentation~~
 ~~-  - 🚧 Video~~
 -  - 🚧 Presentation
+-  - 🚧 At end of Season 2024 Refactor database
 -  - 🚧 Bug fixes
+-  - 🚧 Implement some automated QA testing.
+  
 
 ### Setup Instructions
 1. Clone the repository
